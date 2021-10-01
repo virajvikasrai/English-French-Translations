@@ -6,6 +6,7 @@ Inputs:
 * en_fr : English to French dictionary
 * en_embeddings : English to embeddings dictionary
 * fr_embeddings : French to embeddings dictionary
+
 Returns:
 Matrix X and matrix Y, where each row in X is the word embedding for an english word, and the same row in Y is the word embedding for the French version of that English word.
 
