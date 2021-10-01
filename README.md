@@ -1,4 +1,4 @@
-# English-French-Translations
+# English French Translations
 A naive machine translation to translate words from english to french.
 
 ### Generate embedidings and transformation matrices
